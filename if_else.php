@@ -8,20 +8,20 @@
 </head>
 <body>
     <?php
-    $mong="1";
-    if ($mong=="1") {
-        echo "GO TO VIETNAM";
-    } elseif($mong== "2"){
+    $mong="82";
+    if ($mong=="92") {
+        echo "QUÃNG NAM";
+    } elseif($mong== "82"){
         echo "KON TUM CITY";
-    }elseif($mong=="3"){
-        echo "Thi";
-    }elseif($mong== "4"){
-        echo "Thắng";
+    }elseif($mong=="73"){
+        echo "QUÃNG BÌNH";
+    }elseif($mong== "11"){
+        echo "CAO BẰNG";
     }
-    elseif($mong== "5"){
-        echo "Nái";
-    }elseif($mong== "6"){
-        echo "Hương";
+    elseif($mong== "74"){
+        echo "QUÃNG TRỊ";
+    }elseif($mong== "43"){
+        echo "ĐÀ NẴNG";
     }
     ?>
 </body>
